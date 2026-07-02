@@ -1,0 +1,22 @@
+.visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+
+:root {
+  --type-badge-text: #f8fafc;
+  --type-badge-border-base: #1f2937;
+  --type-badge-surface-base: #111827;
+  --type-chip-content-gap: 0;
+  --type-chip-padding-y: 0.4rem;
+  --type-chip-padding-x: 0.65rem;
+  --type-chip-selected-outline-size: 2px;
+  --type-chip-selected-outline-offset: 2px;
+}

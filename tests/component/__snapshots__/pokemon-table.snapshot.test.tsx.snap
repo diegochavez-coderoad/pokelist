@@ -1,0 +1,82 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`pokemon table shell snapshot > matches baseline dense table shell 1`] = `
+<div
+  aria-label="Pokemon table container"
+  class="pokemon-table-scroll"
+  role="region"
+>
+  <table
+    aria-label="Pokemon results table"
+    class="pokemon-table"
+  >
+    <thead>
+      <tr>
+        <th
+          scope="col"
+        >
+          Pokedex number
+        </th>
+        <th
+          scope="col"
+        >
+          Sprite
+        </th>
+        <th
+          scope="col"
+        >
+          Name
+        </th>
+        <th
+          scope="col"
+        >
+          Type
+        </th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td
+          class="table-cell-number"
+        >
+          #025
+        </td>
+        <td
+          class="table-cell-sprite"
+        >
+          <img
+            alt="Pikachu sprite"
+            class="pokemon-sprite "
+            data-fallback="false"
+            decoding="async"
+            height="28"
+            loading="lazy"
+            src="/assets/pokemon/sprites/pikachu.svg"
+            width="28"
+          />
+        </td>
+        <td
+          class="table-cell-name"
+        >
+          Pikachu
+        </td>
+        <td
+          class="table-cell-type"
+        >
+          <div
+            aria-label="Pikachu types"
+            class="type-line"
+          >
+            <span
+              class="type-badge"
+              style="border-color: rgba(248, 208, 48, 0.65); background-color: rgba(248, 208, 48, 0.28); color: rgb(248, 250, 252);"
+            >
+              Electric
+            </span>
+          </div>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+`;

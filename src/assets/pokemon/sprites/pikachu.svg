@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 28 28" role="img" aria-label="Pikachu sprite placeholder">
+  <rect width="28" height="28" rx="4" fill="#101723"/>
+  <circle cx="14" cy="14" r="9" fill="#facc15"/>
+  <circle cx="11" cy="12" r="1.2" fill="#1f2937"/>
+  <circle cx="17" cy="12" r="1.2" fill="#1f2937"/>
+  <path d="M10 17c1.3 1.2 2.3 1.7 4 1.7s2.7-.5 4-1.7" stroke="#1f2937" stroke-width="1.2" fill="none" stroke-linecap="round"/>
+</svg>
