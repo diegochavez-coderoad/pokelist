@@ -1,5 +1,3 @@
-# Pokelist
-
 ![Pokelist Banner](docs/hero-pokelist.svg)
 
 A fast, accessible React + TypeScript app for exploring first-generation Pokemon (#001-#151) with unified search and type filters.
